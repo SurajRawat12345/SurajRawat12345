@@ -6,6 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajrawat12345&label=Profile%20views&color=0e75b6&style=flat" alt="surajrawat12345" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<a target="_blank" href="https://surajrawatportfolio.netlify.app"> My Portfolio website </a> 🚀
 
 - 🔭 I’m currently working on **Pet Place**
 
