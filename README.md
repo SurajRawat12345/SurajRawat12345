@@ -1,4 +1,4 @@
-<img src='https://github.com/SurajRawat12345/SurajRawat12345/assets/115080037/967a2c47-2f30-4f4f-b93a-a7c55def7235'>
+<img src='https://github.com/SurajRawat12345/SurajRawat12345/assets/115080037/967a2c47-2f30-4f4f-b93a-a7c55def7235' height='300px' width='100%'>
 <h1 align="center">Hi 👋, I'm Suraj Rawat</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/3klZkDif0nsAAAAd/gaming-gif.gif">
